@@ -1,0 +1,20 @@
+body {
+    background:linear-gradient(90deg, #337AB7, rgb(20, 20, 20));
+
+    color: #FDFFFF;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  button{
+      padding: 5px 20px;
+      background-color: #337AB7;
+      border-style: none;
+    color: #FDFFFF;
+    
+    
+  }
+
+  input{
+      height:23px;
+  }
